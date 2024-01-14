@@ -1,6 +1,6 @@
 # Sales&Orders Project Analysis
-# I go through data 📊 <br />
-## Based on metadata I asked effective question related to sales and orders performance 
+## I go through data 📊 <br />
+### Based on metadata I asked effective question related to sales and orders performance 
 
 KPIs(Total Sales,Returns,Net sales,Discounts,COGS,T.customer, T.orders,…..)<br />
 To enhance Customers loyalty<br />
@@ -32,7 +32,7 @@ Top 5 state by orders<br />
 Top Customer based on order and his sales , orders and items<br />
 Top category based on order and his sales , orders and items<br /><br /><br />
 
-## (Data processing)
+### (Data processing)
 Load Datasets to power query for transformation.<br />
 Orders Table:<br />
  ◦ Change data type for columns <br />
@@ -44,8 +44,8 @@ People &Return Tables:<br />
 Then<br />
 Load shipping cost dataset to power query as shipping cost Table <br />
 
-## Load and apply transformation data to excel
-## Load Tables to power pivot 
+### Load and apply transformation data to excel
+### Load Tables to power pivot 
  ◦ Created Measure <br />
  ◦ Make relationships between fact table (Order) and dimension tables (People,Return,shipping cost) as stat schema <br />
 Created new multiple sheets for analysis and design Dashboards <br />
@@ -55,8 +55,8 @@ Created new multiple sheets for analysis and design Dashboards <br />
  ◦ Sales Dashboard calculation sheet for Sales Dashboard <br />
  ◦ Order Dashboard calculation sheet for Orders Dashboard <br />
 
-## Design a tow Dashboard for Sales and Orders to Answer questions and Monitor the company performance
-# project lifecycle
+### Design a tow Dashboard for Sales and Orders to Answer questions and Monitor the company performance
+### project lifecycle
 1-Understanding metadata and business needs<br />
 2-Data transformation<br />
 3-Visual representation<br />
